@@ -1,6 +1,6 @@
-#A tribute page for Sir David Attenborough
+# A tribute page for Sir David Attenborough
 
-###The page passes all the FreeCodeCamp test 10/10.
+### The page passes all the FreeCodeCamp test 10/10.
 ---
 
 **A rustic tribute page as part of FCC responsive web design project**
